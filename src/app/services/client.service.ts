@@ -22,4 +22,16 @@ export class ClientService {
     return this.clients;
   }
 
+  newClient(client: Client){
+    this.clientsRef.push(client);
+  }
+
+  getClient(id: string){
+    this.client = this.db.object('/clients/'+id).valueChanges();
+    return this.client;
+  }
+
+  updateClient(id: string, client: Client){
+    return this.clientsRef.update(id, client);
+  }
 }

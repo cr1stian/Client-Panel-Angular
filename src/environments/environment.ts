@@ -14,3 +14,6 @@ export const environment = {
     messagingSenderId: "1012338050486"
   }
 };
+
+
+// Setting up Firebase Connection
