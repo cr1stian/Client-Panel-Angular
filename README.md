@@ -31,9 +31,9 @@ To explore the site and it's features go to https://cr1stian.github.io/Client-Pa
 <br>
 Sign in with the following credentials:
 <br>
-Email: admin@company.com
+<b>Email:</b> admin@company.com
 <br>
-Password: 123456789
+<b>Password:</b> 123456789
 
 
 ## Screen Shot
