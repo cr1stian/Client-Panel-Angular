@@ -28,9 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Web Address
 To explore the site and it's features go to https://cr1stian.github.io/Client-Panel-Angular/
+<br>
 Sign in with the following credentials:
-
+<br>
 Email: admin@company.com
+<br>
 Password: 123456789
 
 
