@@ -26,5 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Web Address
+To explore the site and it's features go to https://cr1stian.github.io/Client-Panel-Angular/
+Sign in with the following credentials:
+
+Email: admin@company.com
+Password: 123456789
+
+
 ## Screen Shot
 <img src="https://github.com/cr1stian/Client-Panel-Angular/blob/master/screenshot.png?raw=true">
