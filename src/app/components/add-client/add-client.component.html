@@ -72,13 +72,13 @@
         </div>
 
         <div class="form-group">
-          <label for='firstName'>Phone Number</label>
+          <label for='phone'>Phone Number</label>
           <input
           type="text"
           class="form-control"
           [ngClass]="{'is-invalid':clientPhone.errors?.required && clientPhone.touched || clientPhone.errors?.minlength}"
           [(ngModel)]="client.phone"
-          name="firstphone"
+          name="phone"
           #clientPhone = "ngModel"
           minlength="10"
           required>
